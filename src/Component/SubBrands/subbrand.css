@@ -1,0 +1,11 @@
+.bg-wave{
+    background-image: url('../../assets/wave/wave-haikei1.png');
+    /* height: 100%; */
+    background-size: cover;
+    color:white;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    background-blend-mode: overlay;
+}
+
+
